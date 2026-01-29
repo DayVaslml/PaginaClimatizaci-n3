@@ -22,7 +22,7 @@ body { font-family: 'Montserrat', sans-serif; margin: 0; background: #f9f9f9; co
 
 /* HERO */
 .hero-section { 
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('portada.jpg') no-repeat center center/cover; 
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('fondo.jpg') no-repeat center center/cover; 
     height: 450px; display: flex; align-items: center; justify-content: center; text-align: center;
 }
 .hero-text-box { padding: 30px; border: 2px solid var(--azul); display: inline-block; }
